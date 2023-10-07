@@ -1,2 +1,2 @@
-# Alien_Invasion_git
- Introduction to game development in Python with Pygame.
+# Alien_Invasion
+  My first attempts at a game using Pygame. The idea of the game is simple: you are a ship and you have to shoot the aliens before they get to you.
